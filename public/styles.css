@@ -62,8 +62,6 @@ h2{font-size:clamp(36px,5vw,56px);line-height:1;letter-spacing:-.01em}
 .ai-lead{font-size:clamp(24px,3vw,32px);line-height:1.2;margin-bottom:16px}
 .ai p+p{color:var(--muted);font-size:17px}
 .ai strong{color:var(--ink);font-weight:500}
-.stack{display:flex;flex-wrap:wrap;gap:10px;list-style:none}
-.stack li{border:1px solid var(--line);border-radius:999px;padding:8px 16px;background:var(--paper)}
 footer{margin-top:96px;border-top:1px solid var(--line);padding:40px 0;color:var(--muted)}
 .lost{min-height:100vh;display:flex;flex-direction:column;justify-content:center}
 @media (max-width:860px){
